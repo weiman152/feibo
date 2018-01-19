@@ -10,6 +10,7 @@
 		9712560A20119DD000AFD9AA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9712560920119DD000AFD9AA /* main.m */; };
 		9712561220119E1D00AFD9AA /* FuncOne.m in Sources */ = {isa = PBXBuildFile; fileRef = 9712561120119E1D00AFD9AA /* FuncOne.m */; };
 		971256152011A07E00AFD9AA /* FuncTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = 971256142011A07E00AFD9AA /* FuncTwo.m */; };
+		9712563F2011F31D00AFD9AA /* FuncThree.m in Sources */ = {isa = PBXBuildFile; fileRef = 9712563E2011F31D00AFD9AA /* FuncThree.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		9712561120119E1D00AFD9AA /* FuncOne.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FuncOne.m; sourceTree = "<group>"; };
 		971256132011A07E00AFD9AA /* FuncTwo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FuncTwo.h; sourceTree = "<group>"; };
 		971256142011A07E00AFD9AA /* FuncTwo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FuncTwo.m; sourceTree = "<group>"; };
+		9712563D2011F31D00AFD9AA /* FuncThree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FuncThree.h; sourceTree = "<group>"; };
+		9712563E2011F31D00AFD9AA /* FuncThree.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FuncThree.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +71,8 @@
 				9712561120119E1D00AFD9AA /* FuncOne.m */,
 				971256132011A07E00AFD9AA /* FuncTwo.h */,
 				971256142011A07E00AFD9AA /* FuncTwo.m */,
+				9712563D2011F31D00AFD9AA /* FuncThree.h */,
+				9712563E2011F31D00AFD9AA /* FuncThree.m */,
 			);
 			path = "斐波那契数列";
 			sourceTree = "<group>";
@@ -132,6 +137,7 @@
 			files = (
 				971256152011A07E00AFD9AA /* FuncTwo.m in Sources */,
 				9712561220119E1D00AFD9AA /* FuncOne.m in Sources */,
+				9712563F2011F31D00AFD9AA /* FuncThree.m in Sources */,
 				9712560A20119DD000AFD9AA /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
